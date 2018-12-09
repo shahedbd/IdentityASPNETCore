@@ -61,7 +61,7 @@ namespace IdentityASPNETCore.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to SSG.prdpVEIHSrif_mC5Ddw2Jg.C-IZwzsqXOqmrurQUFM2_IfZcoC-sIlQRofc10081SKk.
+        ///   Looks up a localized string similar to .
         /// </summary>
         public static string apiKey {
             get {
